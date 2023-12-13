@@ -1,2 +1,2 @@
 # Django-PostgreSQL
- Creador de Tareas con Django y PostgreSQL
+ Créateur de tâches avec Django et PostgreSQL
